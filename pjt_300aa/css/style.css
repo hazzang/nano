@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+
+.pjt300_wrap {background:url("../../pjt_300aa/img/bg.jpg") no-repeat 0 0 ;background-size:cover;max-width: 1520px;min-width:1520px;height:711px;font-family: 'Nanum Gothic';margin:0 auto;}
+.pjt300_wrap h1 {text-align: center; color: #144f6b;font-size: 30px;margin: 22px 0px 0 415px; display: inline-block;font-family: Nanum Gothic;font-weight:bold;letter-spacing: 1px;}
+
+
+.contans_view{margin: 0 auto;width: 1450px;margin-top: 78px;height:506px;}
+.contans_view:after {content:'';display:block;clear:both;}
+
+.lf_contans{float:left;width:353px;}
+.lf_contans span{margin-top: 24px;display: inline-block;padding: 0px 44px;font-size: 14px;color: #9C27B0;font-family: 'Nanum GothicEB';}
+.lf_contans .gp_01 {background:url("../../pjt_300aa/img/graph_01.jpg")no-repeat 0 0;width: 100%;}
+.lf_contans .gp_01 ul{padding: 413px 0 0 27px;}
+.lf_contans .gp_01 ul li{padding: 2px 12px;font-size: 13px;}
+
+
+
+.center_contans{float:left;width: 781px;}
+.center_contans .ct_graph{background:url("../../pjt_300aa/img/graph.jpg")no-repeat 0 0;width:100%;height:263px;}
+.center_contans .ct_graph ul{font-size: 13px;padding: 231px 0px 0 24px;}
+.center_contans .ct_graph ul li{padding: 1px 6px;letter-spacing: -1px;}
+.center_contans .ct_graph ul li:hover{background:#ee8d18; color:#fff;}
+.center_contans .ct_graph_list{}
+.center_contans .ct_graph_list{}
+.center_contans .ct_graph_list h3 {padding: 25px 5px 10px 0;font-weight: bold; color: #305582;}
+.center_contans .ct_graph_list .ct_list_box{background:url("../../pjt_300aa/img/bg_01.jpg")no-repeat 0 0;height: 159px;font-size: 14px;}
+.ct_graph_list .ct_list_box .ct_conts_tit {margin-bottom: 7px;}
+
+.ct_graph_list .ct_list_box .ct_conts_tit li {padding: 7px 29px;}
+.ct_graph_list .ct_list_box .ct_conts_tit li.padding_10{padding: 7px 191px 7px 173px;}
+.ct_graph_list .ct_list_box .ct_conts_tit li.padding_15{margin: 0 51px 0 4px;}
+.ct_graph_list .ct_list_box .ct_conts_text{line-height: 27px;font-size: 13px;}
+.ct_graph_list .ct_list_box .ct_conts_text li{padding: 1px 35px;}
+.ct_graph_list .ct_list_box .ct_conts_text li span{color: red;margin: 0 10px 0 6px;letter-spacing: -1px;font-size: 11px;}
+.ct_graph_list .ct_list_box .ct_conts_text li.padding_10{padding: 0 121px 0 144px;}
+
+.right_contans{float:left;width: 315px;}
+.right_contans .rt_conts_text{font-size: 12px;line-height: 20px;margin-top: 20px;}
+.right_contans .rt_conts_text p{}
+
+
+.logo {float: right;padding: 25px 92px 0 0;}
